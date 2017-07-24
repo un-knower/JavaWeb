@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_6_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/filterbuilder.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/fluent-hc-4.5.3.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/htmllexer.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/htmlparser-1.6.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/htmlparser.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/httpclient-cache-4.5.3.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/httpclient-win-4.5.3.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/sitecapturer.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/thumbelina.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/cpdetector_1.0.10.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/antlr-2.7.4.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/chardet-1.0.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/jargs-1.0.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/hanlp-1.3.4-sources.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/hanlp-1.3.4.jar"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.struts2.MYECLIPSE_STRUTS21_CORE"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>
